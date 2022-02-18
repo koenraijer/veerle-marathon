@@ -24,7 +24,7 @@
     <div class="grid grid-cols-2 lg:-mt-28 pb-48">
         <div class="relative col-span-2">
             <img class="md:mx-6 mx-auto md:h-auto md:max-h-[55vh] aspect-square -z-10" alt="Veerle en Wilco met Toon Hermans" src="hero.jpeg">
-            <img class="absolute aspect-square right-6 -translate-y-12 w-auto max-h-[40vw]" alt="Logo Toon Hermans"src="toonhermans.jpeg">
+            <img class="absolute aspect-square right-6 -translate-y-16 w-auto max-h-[40vw] md:max-h-56" alt="Logo Toon Hermans"src="toonhermans.jpeg">
         </div>
     </div>
 </div>
