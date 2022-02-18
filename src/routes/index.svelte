@@ -30,7 +30,7 @@
 </div>
 <div class="grid my-4 grid-cols-1 lg:grid-cols-2 gap-8">
     <div class="relative mx-auto lg:col-start-2">
-        <blockquote class="prose mb-8 italic prose-lg lg:prose-2xl">
+        <blockquote class="prose mb-8 italic -mt-8 sm:mt-0 prose-lg lg:prose-2xl">
                 Vandaag is de dag<br>
                 hij komt maar één keer,<br>
                 morgen dan is het<br>
