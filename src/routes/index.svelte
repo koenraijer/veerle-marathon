@@ -54,13 +54,13 @@
     <div class="grid grid-cols-2 lg:-mt-28 pb-48">
         <div class="relative col-span-2">
             <img class="md:mx-6 mx-auto md:h-auto md:max-h-[55vh] aspect-square -z-10" alt="Veerle en Wilco met Toon Hermans" src="hero.jpeg">
-            <img class="absolute aspect-square right-16 -translate-y-12 w-auto max-h-[40vw] md:max-h-64" alt="Logo Toon Hermans"src="toonhermans.png">
+            <img class="absolute aspect-square right-16 -translate-y-8 md:-translate-y-12 w-auto max-h-[40vw] md:max-h-64" alt="Logo Toon Hermans"src="toonhermans.png">
         </div>
     </div>
 </div>
 <div class="grid my-4 grid-cols-1 lg:grid-cols-2 gap-8">
     <div class="relative mx-auto lg:col-start-2">
-        <blockquote class="prose mb-8 italic -mt-8 sm:mt-0 prose-lg lg:prose-2xl">
+        <blockquote class="prose mb-8 italic -mt-8 sm:mt-0 prose-xl lg:prose-2xl">
                 Vandaag is de dag<br>
                 hij komt maar één keer,<br>
                 morgen dan is het<br>
@@ -71,12 +71,12 @@
                 want vandaag is de dag. <br>
         </blockquote>
     </div>
-    <div class="prose place-self-center prose-lg lg:col-start-1 lg:row-start-1 ml-4 lg:px-12 font-semibold">
+    <div class="prose place-self-center prose-lg lg:col-start-1 lg:row-start-1 lg:px-12 font-semibold">
         <a href="https://tikkie.me/pay/kb3qghhqfga712nvjd10" rel="noopener noreferrer" target="_blank">
-            <img class="mx-auto" src="tikkie.png" alt="Tikkie">
+            <img class="mx-auto w-48 d:max-w-[50vw]" src="tikkie.png" alt="Tikkie">
         </a>
-        <h3 class="text-center">
-            Stort een bijdrage op NL97 ABNA 0108.5490.89 T.n.v. Veerle Ravensberg 
+        <h3 class="text-center font-semibold text-lg md:max-w-[50vw]">
+            Stort een bijdrage op <br>NL97 ABNA 0108.5490.89 <br>T.n.v. Veerle Ravensberg 
             voor een knipoog van Toon. 
         </h3>
     </div>
