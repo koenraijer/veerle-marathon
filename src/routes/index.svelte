@@ -58,7 +58,7 @@
         </div>
     </div>
 </div>
-<div class="grid my-4 grid-cols-1 lg:grid-cols-2 gap-8">
+<div class="grid my-4 grid-cols-1 lg:grid-cols-2 gap-8 pb-16">
     <div class="relative mx-auto lg:col-start-2">
         <blockquote class="prose mb-8 italic -mt-8 sm:mt-0 prose-xl lg:prose-2xl">
                 Vandaag is de dag<br>
@@ -80,4 +80,7 @@
             voor een knipoog van Toon. 
         </h3>
     </div>
+</div>
+<div class="flex justify-end">
+    <a alt="link to de Studio van Koen" rel="noopener noreferrer" target="_blank" href="https://studio.koenraijer.io/" class="text-gray-500 font-sans mr-6 w-fit text-[12px]">Studio Koen.</a>
 </div>
